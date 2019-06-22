@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="AmazonTestCases.TC_01_AddItemToCart">
+      <class name="AmazonTestCases.TC_008_giftCard">
         <methods>
-          <include name="AddCart"/>
+          <include name="giftcard"/>
         </methods>
-      </class> <!-- AmazonTestCases.TC_01_AddItemToCart -->
+      </class> <!-- AmazonTestCases.TC_008_giftCard -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

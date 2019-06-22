@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="51432" started-at="2019-06-20T07:40:46Z" finished-at="2019-06-20T07:41:38Z">
+  <suite name="Default suite" duration-ms="122439" started-at="2019-06-22T10:45:04Z" finished-at="2019-06-22T10:47:07Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="51432" started-at="2019-06-20T07:40:46Z" finished-at="2019-06-20T07:41:38Z">
-      <class name="AmazonTestCases.ProductDetails">
-        <test-method status="PASS" signature="ProDetails()[pri:0, instance:AmazonTestCases.ProductDetails@6acdbdf5]" name="ProDetails" duration-ms="51396" started-at="2019-06-20T07:40:46Z" finished-at="2019-06-20T07:41:38Z">
+    <test name="Default test" duration-ms="122439" started-at="2019-06-22T10:45:04Z" finished-at="2019-06-22T10:47:07Z">
+      <class name="AmazonTestCases.TC_008_giftCard">
+        <test-method status="PASS" signature="giftcard()[pri:0, instance:AmazonTestCases.TC_008_giftCard@6acdbdf5]" name="giftcard" duration-ms="122393" started-at="2019-06-22T10:45:04Z" finished-at="2019-06-22T10:47:06Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ProDetails -->
-      </class> <!-- AmazonTestCases.ProductDetails -->
+        </test-method> <!-- giftcard -->
+      </class> <!-- AmazonTestCases.TC_008_giftCard -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
